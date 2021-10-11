@@ -1,4 +1,4 @@
-/*EXCERCISES:
+/*EXERCISES:
 1) Variables y Operadores
 
 a) Crear dos variables numéricas y utilizar el operador suma para guardar el valor de la suma de ambos números en una
@@ -11,7 +11,7 @@ resultado de la suma en una 3er variable (utilizar length).
 */
 
 //SOLVING:
-console.log("EXCERCISE 1")
+console.log("EXERCISE 1")
 
 // 1) a)
 

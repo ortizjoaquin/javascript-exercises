@@ -1,4 +1,4 @@
-/*EXCERCISES:
+/*EXERCISES:
 2) Strings
 
 a) Crear una variable de tipo string con al menos 10 caracteres y convertir todo el texto en mayúscula
@@ -24,7 +24,7 @@ toLowerCase y el operador +).
 */
 
 //SOLVING:
-console.log("EXCERCISE 2")
+console.log("EXERCISE 2")
 
 // 2) a)
 

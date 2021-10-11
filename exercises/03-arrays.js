@@ -1,4 +1,4 @@
-/*EXCERCISES:
+/*EXERCISES:
 3) Arrays
 
 a) Dado el siguiente array: ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", 
@@ -19,7 +19,7 @@ g) Crear una copia del array de meses que contenga desde Mayo hasta Noviembre (u
 */
 
 //SOLVING:
-console.log("EXCERCISE 3")
+console.log("EXERCISE 3")
 
 // 3) a)
 var monthList=
